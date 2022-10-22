@@ -13,3 +13,5 @@ git config --global init.defaultBranch main
 git init # инициализация
 git add . # добавить все файлы в track
 git commit -m "описание" # сделать коммит
+git status - 
+git diff - 
