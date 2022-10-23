@@ -12,7 +12,7 @@ if(income < 15000) {
 }
 */
 //Задача №6 урок 4
-const income = 60055;
+const income = +prompt('Введите сумму Вашего дохода: ');
 let nalog = NaN;
 if(income < 15000) {
     nalog = income * 0.13;
