@@ -1,9 +1,8 @@
-const nameProduct = 'Bugatti Vieron';
-console.log('nameProduct: ', nameProduct);
-const quantityProduct = 5;
-const categoryProduct = 'Auto';
-const priceProduct = 100_000;
+const item = 'Bugatti Vieron';
 
-const priceProductAll = quantityProduct * priceProduct;
-console.log('priceProductAll: ', priceProductAll);
+const count = 5;
+const category = 'Auto';
+const price = 100_000;
 
+console.log(item);
+console.log(`общая сумма товара: ${count * price}`);
