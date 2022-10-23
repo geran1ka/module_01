@@ -1,5 +1,5 @@
 'use strict';
-
+/*
 const name = prompt('Наименование товара: ');
 
 const count = +prompt('Количество товара: ');
@@ -13,5 +13,5 @@ if(!isFinite(count) || !isFinite(price)){
 } else{
     console.log(`На складе ${count} единицы товара ${name} на сумму ${count * price} деревянных`);
 }
-
+*/
 
