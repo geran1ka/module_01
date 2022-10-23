@@ -1,3 +1,4 @@
+'use strict';
 const name = prompt('Наименование товара: ');
 const count = +prompt('Количество товара: ');
 const category = prompt('Категория товара: ');
